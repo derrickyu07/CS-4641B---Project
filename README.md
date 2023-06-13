@@ -1,4 +1,4 @@
-# CS-4641B---Project
+# CS-4641B-Project
 
 ## Summary - Infographic
 
